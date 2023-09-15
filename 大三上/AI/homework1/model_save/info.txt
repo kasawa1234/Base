@@ -1,0 +1,3 @@
+simple: dataset 225*225
+resnet34: 224*224, no softmax
+resnet_new: 224*224, softmax
